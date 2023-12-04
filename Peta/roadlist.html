@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script>
+    var data = [
+      {
+        "nama": "Jalan Tanah",
+        "kerusakan": "Rusak Sedang",
+        "gambar": "jalanrusak1.jpg"
+      },
+      {
+        "nama": "Jalan Aspal",
+        "kerusakan": "Rusak Parah",
+        "gambar": "rusakparah12.jpg"
+      },
+      {
+        "nama": "Jalan Parah",
+        "kerusakan": "Rusak Parah",
+        "gambar": "rusakparah.jpg"
+      }
+    ];
+
+    // Mengolah data
+    data.forEach(function(item) {
+      // Membuat elemen img
+      var imgElement = document.createElement("img");
+      imgElement.src = item.gambar; // Mengatur sumber gambar dari properti "gambar"
+
+      // Menambahkan elemen img ke dalam body
+      document.body.appendChild(imgElement);
+    });
+  </script>
+</head>
+<body>
+</body>
+</html>

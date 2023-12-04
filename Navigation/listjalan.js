@@ -1,5 +1,5 @@
 import React from "react";
-import mahasiswa from "./Data/mahasiswa.json";
+import mahasiswa from "../Peta/roadlist.json";
 import { View, Text, FlatList, StyleSheet } from "react-native";
 import FontAwesome5 from "react-native-vector-icons/FontAwesome5";
 
@@ -14,9 +14,7 @@ const Getjsonfile = () => {
           </View>
           <View>
             <Text style= {styles.cardtitle}>{item.nama}</Text>
-            <Text>NIM: {item.nim}</Text>
-            <Text>Kelas: {item.kelas}</Text>
-            <Text>Jenis Kelamin: {item.jeniskelamin}</Text>
+            <Text>Kerusakan: {item.kerusakan}</Text>
           </View>
         </View>
       )}
