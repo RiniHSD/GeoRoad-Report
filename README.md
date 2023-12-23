@@ -18,11 +18,15 @@
 <ul>4. Tingkat Kerusakan Jalan Data BPS Kabupaten Siak 2022</ul>
 
 ## Tangkapan Layar Komponen Penting Produk
-1. ![Tangkapan Layar](src/1.jpg)
-2. <img height="700px" src="src/1.jpg">
-3. ![Tangkapan Layar](src/2.jpg)
-4. ![Tangkapan Layar](src/3.jpg)
-5. ![Tangkapan Layar](src/4.jpg)
-6. ![Tangkapan Layar](src/5.jpg)
-7. ![Tangkapan Layar](src/6.jpg)
-8. ![Tangkapan Layar](src/7.jpg)
+<p>Page Home</p>
+<img height="700px" src="src/1.jpg">
+<p>Page Map</p>
+<img height="700px" src="src/2.jpg">
+<p>Page Add Data</p>
+<img height="700px" src="src/3.jpg"> <img height="700px" src="src/4.jpg">
+<p>Page Statistic</p>
+<img height="700px" src="src/5.jpg">
+<p>Page List Kerusakan Jalan</p>
+<img height="700px" src="src/6.jpg">
+<p>Page Kontak Developer</p>
+<img height="700px" src="src/7.jpg">
