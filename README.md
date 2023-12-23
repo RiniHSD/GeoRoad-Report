@@ -19,9 +19,10 @@
 
 ## Tangkapan Layar Komponen Penting Produk
 1. ![Tangkapan Layar](src/1.jpg)
-2. ![Tangkapan Layar](src/2.jpg)
-3. ![Tangkapan Layar](src/3.jpg)
-4. ![Tangkapan Layar](src/4.jpg)
-5. ![Tangkapan Layar](src/5.jpg)
-6. ![Tangkapan Layar](src/6.jpg)
-7. ![Tangkapan Layar](src/7.jpg)
+2. <img height="700px" src="src/1.jpg">
+3. ![Tangkapan Layar](src/2.jpg)
+4. ![Tangkapan Layar](src/3.jpg)
+5. ![Tangkapan Layar](src/4.jpg)
+6. ![Tangkapan Layar](src/5.jpg)
+7. ![Tangkapan Layar](src/6.jpg)
+8. ![Tangkapan Layar](src/7.jpg)
